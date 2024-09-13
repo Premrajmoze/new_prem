@@ -38,6 +38,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.newDemo.executor": "Run",
+    "Application.newDemo2.executor": "Run",
     "Application.newdemo1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -54,9 +55,16 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.newdemo1">
+  <component name="RunManager" selected="Application.newDemo2">
     <configuration name="newDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="newDemo" />
+      <module name="new_prem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="newDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="newDemo2" />
       <module name="new_prem" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,6 +79,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.newDemo2" />
         <item itemvalue="Application.newdemo1" />
         <item itemvalue="Application.newDemo" />
       </list>
@@ -109,7 +118,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726250249658</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new add 2">
+      <option name="closed" value="true" />
+      <created>1726250521324</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726250521324</updated>
+    </task>
+    <task id="LOCAL-00005" summary="new demo 2 add">
+      <option name="closed" value="true" />
+      <created>1726250930664</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726250930664</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,6 +151,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new add" />
     <MESSAGE value="new add 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="new add 1" />
+    <MESSAGE value="new add 2" />
+    <MESSAGE value="new demo 2 add" />
+    <option name="LAST_COMMIT_MESSAGE" value="new demo 2 add" />
   </component>
 </project>

@@ -6,6 +6,12 @@ public class newDemo {
 
         int c=a+b;
         int d=a-b;
+        int a1=10;
+        String str = "my name is prem";
+        String str1 = "i am prem";
+
+        System.out.println(a1 +":"+str);
+        System.out.println(str1);
         System.out.println(c);
         System.out.println(d);
     }
